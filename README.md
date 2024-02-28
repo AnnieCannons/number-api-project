@@ -2,7 +2,7 @@
 
 1. This activity will use the Numbers API: http://numbersapi.com/
 
-2. To review how to use jQuery to select an HTML element and apply a jQuery method, review the jQuery documentation and utilize its search field: https://api.jquery.com/
+2. Be sure to review the documentation and see how you can use the API to retrieve data.
 
 # Instructions
 
@@ -18,7 +18,7 @@ The purpose of this project is to use async/await by fetching data from the Numb
 
 2b. Create a button element. Assign it a class of "btn" and have its value set to "Get Trivia!"
 
-2c. Make sure you have included the jQuery CDN tag from the Google Developers Library.
+2c. You will use the DOM to access the values the user enters as well as listen for the click event.
 
 2d. Also ensure that this HTML file has access to the JS file.
 
